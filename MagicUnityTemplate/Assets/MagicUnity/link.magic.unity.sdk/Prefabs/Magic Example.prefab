@@ -148,6 +148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   result: {fileID: 4725580918687947633}
+  balance: {fileID: 0}
 --- !u!1 &4725580917123813621
 GameObject:
   m_ObjectHideFlags: 0
@@ -1274,6 +1275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   result: {fileID: 4725580918687947633}
+  balance: {fileID: 0}
 --- !u!1 &4725580918687947919
 GameObject:
   m_ObjectHideFlags: 0
@@ -1502,6 +1504,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   result: {fileID: 4725580918687947633}
+  balance: {fileID: 0}
 --- !u!1 &4725580918763800007
 GameObject:
   m_ObjectHideFlags: 0
